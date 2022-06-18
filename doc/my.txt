@@ -1,0 +1,26 @@
+================================================================================
+                                                                       *my.nvim*
+
+my.nvim is a plugin to host cheat sheet docs of my custom mappings.
+
+================================================================================
+                                                                  *my.telescope*
+
+Telescope.nvim custom mappings:~
+
+Find files (by name - recursive current directory / git project):
+    - |,fj|
+Find files (by content - live grep):
+    - |,fg|
+Current buffer (fuzzy find):
+    - |,fu|
+Buffers:
+    - |,fb|
+Help tags:
+    - |,fh|
+
+
+
+
+
+ vim:tw=78:ts=8:ft=help:norl:
