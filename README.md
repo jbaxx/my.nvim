@@ -1,10 +1,10 @@
 # my.nvim
 
-## Usage
+## Installation
 
 > With [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
-Add to you `plugins.lua` or directly on your `init.nvim` (within a Lua group):
+Add to your `plugins.lua`, directly in your `init.nvim` (within a Lua group), or `init.lua`:
 
 ```lua
 use({'jbaxx/my.nvim'})
@@ -13,4 +13,11 @@ use({'jbaxx/my.nvim'})
 To install:
 ```
 :PackerInstall
+```
+
+## Usage
+
+To display the mappings in the help window:
+```
+:h my.nvim
 ```
