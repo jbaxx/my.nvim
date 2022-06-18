@@ -9,15 +9,15 @@ my.nvim is a plugin to host cheat sheet docs of my custom mappings.
 Telescope.nvim custom mappings:~
 
 Find files (by name - recursive current directory / git project):
-    - |,fj|
+    |,fj|
 Find files (by content - live grep):
-    - |,fg|
+    |,fg|
 Current buffer (fuzzy find):
-    - |,fu|
+    |,fu|
 Buffers:
-    - |,fb|
+    |,fb|
 Help tags:
-    - |,fh|
+    |,fh|
 
 
 
